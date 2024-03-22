@@ -1,0 +1,6 @@
+JavaScript Mathematics Operator
+01. Addition +
+02. Subscription -
+03. Multiply *
+04. Division /
+05. Modulus %

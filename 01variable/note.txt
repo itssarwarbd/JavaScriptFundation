@@ -1,0 +1,15 @@
+********JavaScript Reserved KEy Word
+1. var 
+2. let 
+3. const 
+
+******** JavaScript Variable Declare
+01. lowercase--------- Exam: name;
+02. UPPERCASE--------- Exam: NAME;
+03. CamelCase--------- Exam: MyName;
+04. camelCase--------- Exam: myName;
+05. Alter Native------ Exam: my_name;
+
+*******JavaScript Comment 
+01. Single Line Comment Exam: //
+02. Multi Line Comment  Exam: /*    */

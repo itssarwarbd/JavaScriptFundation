@@ -1,0 +1,9 @@
+// JavaScript Data Type
+01. String------------------Exam: "name"
+02. Number------------------Exam: 1233, -121, 1.211
+03. Boolean-----------------Exam: true/false 
+04. Null--------------------Exam: 
+05. Undefined---------------Exam: 
+06. Object------------------Exam:
+07. Symbol------------------Exam:
+08. Bigint------------------Exam:
